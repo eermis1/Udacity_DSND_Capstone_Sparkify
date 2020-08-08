@@ -21,7 +21,30 @@ The project has been conducted on the mini dataset (128MB) via Jupyter Notebook 
 - Algorithm testing and identification of best model.
 - Model tuning 
 
-#### *The codes can be found on the notebook in the repository but please click here to see my Medium Post which tells my motivation and strategiy behind the project completion.*
+## Defined Features and Models:
+
+Churn is defined as Cancellation Confirmation events in mini_sparkify_event_data.json data. <br>
+
+Following 9 features have been extracted to build model:
+- Gender (M/F)
+- Level (Paid/Free)
+- Total number of songs listened
+- Registration duration
+- The number of thumbs up
+- The number of thumbs down
+- The number of add friends
+- The number of add playlist
+- Churn Status / Label
+
+**Random Forest Model** performs the best on the dataset provided which provides a **F1 score of 0.949** and **Accuracy of .**
+
+The codes can be found on the notebook in the repository **but please click here to see my Medium Post** which tells my motivation and strategiy behind the project completion.
+
+## Next Steps
+
+- Run the script on AWS cluster and apply analysis to the full data set
+- Add more parameters and corresponding values to the hyper parameter space
+- Put more effort into the feature selection process, e.g. to eliminate superfluous features
 
 ## Dependencies
 
@@ -36,7 +59,6 @@ In order to run the notebook flawlessly, please run: <br>
         - pip install joblib
         - conda install -c conda-forge pyspark
         - conda install -c plotly plotly-orca==1.3.1 psutil requests #To save plotly graphs as png or jpeg. 
-
 
 ## Author
 
