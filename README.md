@@ -1,8 +1,8 @@
 # Udacity Data Scientist Nanodegree Program 
-## Identify Customer Segments Project
+## Data Scientist Capstone Project - Sparkify
 ***
 
-This repository has been created for Udacity Data Scientist Nanodegree Program - Unsupervised Learning Part - Identify Customer Segments Project
+This repository has been created for Udacity Data Scientist Nanodegree Program Capstone Project - Sparkify
 
 ![sparkify](https://user-images.githubusercontent.com/36535914/89719293-83263b80-d9cf-11ea-9f6d-444406d9c4c5.png)
 
