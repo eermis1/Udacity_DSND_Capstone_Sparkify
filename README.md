@@ -4,6 +4,9 @@
 
 This repository has been created for Udacity Data Scientist Nanodegree Program - Unsupervised Learning Part - Identify Customer Segments Project
 
+![sparkify](https://user-images.githubusercontent.com/36535914/89719293-83263b80-d9cf-11ea-9f6d-444406d9c4c5.png)
+
+
 ## Description
 Like Spotify and fizy, Sparkify is music streaming application. Udacity provides datasets of Sparkify user log transactions. Mini dataset (128MB) and the full dataset (12GB) are also available in the Udacity workspace.
 
