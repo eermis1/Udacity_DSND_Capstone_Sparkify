@@ -21,7 +21,7 @@ The project has been conducted on the mini dataset (128MB) via Jupyter Notebook 
 - Algorithm testing and identification of best model.
 - Model tuning 
 
-The codes can be found on the notebook in the repository but please click here to see my Medium Post which tells my motivation and strategiy behind the project completion.
+#### *The codes can be found on the notebook in the repository but please click here to see my Medium Post which tells my motivation and strategiy behind the project completion.*
 
 ## Dependencies
 
