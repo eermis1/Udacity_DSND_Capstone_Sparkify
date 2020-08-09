@@ -39,7 +39,8 @@ Following 9 features have been extracted to build model:
 
 **Random Forest Model** performs the best on the dataset provided which provides a **F1 score of 0.949** and **Accuracy of .**
 
-The codes can be found on the notebook in the repository **but please click here to see my Medium Post** which tells my motivation and strategiy behind the project completion.
+The codes can be found on the notebook in the repository **but please [click here](https://medium.com/@evrenermis92/sparkify-churn-prediction-algorithm-e25ed75fb44e) to see my Medium Post** which tells my motivation and strategiy behind the project completion.
+
 
 ## Next Steps
 
