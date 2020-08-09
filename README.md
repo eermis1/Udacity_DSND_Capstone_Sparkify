@@ -37,7 +37,7 @@ Following 9 features have been extracted to build model:
 - Level (Paid/Free)
 - Churn Status / Label
 
-**Gradient Boosting Classifier** performs the best on the dataset provided which provides a **F1 score of 0.907** and **Accuracy of 0.907.**
+**Gradient Boosting Classifier** performs the best on the dataset provided which provides an **Accuracy of 0.907.**
 
 The codes can be found on the notebook in the repository **but please [click here](https://medium.com/@evrenermis92/sparkify-churn-prediction-algorithm-e25ed75fb44e) to see my Medium Post** which tells my motivation and strategiy behind the project completion.
 
