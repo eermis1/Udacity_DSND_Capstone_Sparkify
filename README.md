@@ -26,14 +26,15 @@ The project has been conducted on the mini dataset (128MB) via Jupyter Notebook 
 Churn is defined as Cancellation Confirmation events in mini_sparkify_event_data.json data. <br>
 
 Following 9 features have been extracted to build model:
+
 - Gender (M/F)
-- Level (Paid/Free)
 - Total number of songs listened
 - Registration duration
 - The number of thumbs up
 - The number of thumbs down
 - The number of add friends
 - The number of add playlist
+- Level (Paid/Free)
 - Churn Status / Label
 
 **Random Forest Model** performs the best on the dataset provided which provides a **F1 score of 0.949** and **Accuracy of .**
